@@ -13,5 +13,4 @@ Net Worth
 
 In these model I have also used tensorflow ,  relu functions  and Dense layer.
 Dense layer is the regular deeply connected neural network layer. It is most common and frequently used layer.
-
-structure : h = W *x + b
+@structure : h = W *x + b
